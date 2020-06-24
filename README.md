@@ -3,3 +3,5 @@
 
 Пример:
 "Коронавирус дээш ажыл чок арткан кижилерге күрүнеден дуза" >>> "Koronavirus deeş aƶьl cok artkan kiƶilerƣe kyryneden duza"
+
+Autor: Irgit Valery https://github.com/tarbagan
