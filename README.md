@@ -4,6 +4,6 @@
 Пример:
 "Коронавирус дээш ажыл чок арткан кижилерге күрүнеден дуза" >>> "Koronavirus deeş aƶьl cok artkan kiƶilerƣe kyryneden duza"
 
-Онлайн версия: https://old.tuva24.ru/
+Онлайн версия: в разработке
 
 Autor: Irgit Valery https://github.com/tarbagan
